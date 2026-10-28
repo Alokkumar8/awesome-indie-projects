@@ -44,6 +44,7 @@ We group projects into random categories that have absolutely nothing to do with
 - [affiliationlist.com](https://affiliationlist.com) - Submit you affiliation program, and be promoted by content creator
 - [FoundersWall](https://www.founderswall.com) - A raw public board where indie founders log their wins, fails, and chaos. No likes. No hype. Just building in public, for real.
 - [Peeonauts](https://peeonauts.com/) - Live from Space: Real-time monitoring of the International Space Station's urine, waste water, and clean water tank levels.
+- [Ripple](https://ripplefocus.github.io/en/) - Free Android app and short-form video blocker (YouTube Shorts, Instagram Reels, WeChat Channels) with a 15-minute monotonic-clock cooldown and self-healing wireless debugging uninstall protection.
 
 ## 🦄 Unicorn Sightings
 
